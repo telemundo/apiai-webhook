@@ -1,0 +1,28 @@
+{
+  "name": "apiai-webhook",
+  "version": "1.0.0",
+  "description": "Telemundo - API.AI webhook demonstration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telemundo/apiai-webhook.git"
+  },
+  "keywords": [
+    "telemundo",
+    "api.ia",
+    "webhook"
+  ],
+  "author": "Alejandro Labrada Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/telemundo/apiai-webhook/issues"
+  },
+  "homepage": "https://github.com/telemundo/apiai-webhook#readme",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
